@@ -317,11 +317,11 @@ header .socialNetworkNavBar .socialNetworkNav {
 }
 /* Main content sections */
 .mainContent .section1 {
-	text-align: center;
+	text-align: left;
 	margin-bottom: 10%;
 }
 .section1 .section1Title, .section2 .section1Title {
-	text-align: center;
+	text-align: left;
 }
 .section1 .sectionTitleRule, .section2 .sectionTitleRule {
 	width: 100%;
